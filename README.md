@@ -1,3 +1,2 @@
 # inventory-sortation-system
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/chahal-neema/inventory-sortation-system)
+Deployed at https://warm-lebkuchen-4a7292.netlify.app/
